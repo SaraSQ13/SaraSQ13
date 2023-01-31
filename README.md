@@ -5,7 +5,7 @@
    “role” : “Full Stack Developer”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/sara-su%C3%A1rez-qu%C3%ADlez-6548ba198/"
+      "Linkedin" : "www.linkedin.com/in/sara-suarez-quilez"
      
      }
  }
